@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
-.flashy {
+p.flashy {
     color: #ff0000;
     font-style: italic;
 }
 
-.best {
+p.best {
     /* Font options */
     font-family: 'Pacifico', cursive;
     text-shadow: 2px 2px 4px #000000;
@@ -18,14 +18,14 @@
     text-align: center;
 }
 
-.border {
+div.border {
     border: 1px solid #000000;
     display: inline-block;
     padding: 10px;
     text-align: center;
 }
 
-.center {
+img.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
